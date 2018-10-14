@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread -g -O0   CMakeFiles/SerialPort.dir/serial_port.cpp.o CMakeFiles/SerialPort.dir/poll_controler.cpp.o CMakeFiles/SerialPort.dir/main.cpp.o  -o SerialPort -rdynamic -lserial -lpthread 

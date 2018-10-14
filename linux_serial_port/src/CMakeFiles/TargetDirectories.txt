@@ -1,0 +1,3 @@
+/home/gf/SerialPort/linux_serial_port/src/CMakeFiles/edit_cache.dir
+/home/gf/SerialPort/linux_serial_port/src/CMakeFiles/rebuild_cache.dir
+/home/gf/SerialPort/linux_serial_port/src/CMakeFiles/SerialPort.dir
